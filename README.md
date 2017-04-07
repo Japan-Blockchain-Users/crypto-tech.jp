@@ -1,4 +1,11 @@
-hshimo.github.io
+日本ブロックチェーンユーザ会 Webサイト
 ================
 
-Cryptocurrency Tech Japan
+JBUG: Japan Blockchain User Group
+
+
+
+
+
+
+
